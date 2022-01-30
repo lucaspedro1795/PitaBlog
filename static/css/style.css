@@ -1,0 +1,20 @@
+.post {
+    margin: 20px;
+    padding: 20px;
+    background: #00FF7F;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #2E8B57;
+}
+
+h2 {
+    color: #006400;
+}
+
+.post a:hover {
+    text-decoration: none;
+}
+
+.post h2:hover {
+    color: #4B0082;
+    text-decoration: underline;
+}
